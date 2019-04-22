@@ -5,5 +5,5 @@ export async function query() {
 }
 
 export async function queryCurrent() {
-  return request('http://localhost:8001/api/currentUser');
+  return request('/api/currentUser');
 }

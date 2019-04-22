@@ -51,11 +51,11 @@ export async function fakeSubmitForm(params) {
 }
 
 export async function fakeChartData() {
-  return request('http://localhost:8001/api/fake_chart_data');
+  return request('/api/fake_chart_data');
 }
 
 export async function queryTags() {
-  return request('http://localhost:8001/api/tags');
+  return request('/api/tags');
 }
 
 export async function queryBasicProfile(id) {

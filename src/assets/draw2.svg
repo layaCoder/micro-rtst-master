@@ -1,0 +1,1736 @@
+<?xml version="1.0" encoding="gbk"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg onmousedown="Grab(evt)" xmlns:cge="http://www.cim.com" width="3000px" onmousemove="Drag(evt)" xmlns:xlink="http://www.w3.org/1999/xlink" onload="Init(evt)" xmlns="http://www.w3.org/2000/svg" height="2200px" version="1.1" onmouseup="Drop(evt)" >
+ <script type="text/javascript" ><![CDATA[]]></script>
+ <rect width="110%" x="-10%" pointer-events="all" y="-10%" fill="none" height="110%" id="BackDrop" />
+ <g id="0" >
+  <rect width="3000" height="2200" style="fill:rgb(255,255,255)" />
+ </g>
+ <g id="testdrag" >
+  <g id="1" >
+   <ellipse x="236" y="525" cx="248" cy="537" rx="12" ry="12" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(255,0,0)" id="Graph1599" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="3033" FieldNo="-8739" />
+    </metadata>
+   </ellipse>
+   <text x="212" y="513" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="12" >
+    <tspan x="212" y="513" ></tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="3033" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="2" >
+   <ellipse x="236" y="573" cx="248" cy="585" rx="12" ry="12" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(255,0,0)" id="Graph1600" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="3033" FieldNo="-8739" />
+    </metadata>
+   </ellipse>
+   <text x="212" y="561" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="12" >
+    <tspan x="212" y="561" ></tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="3033" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="3" >
+   <ellipse x="2679" y="557" cx="2691" cy="569" rx="12" ry="12" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(255,0,0)" id="Graph1601" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="3033" FieldNo="-8739" />
+    </metadata>
+   </ellipse>
+   <text x="2655" y="545" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="12" >
+    <tspan x="2655" y="545" ></tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="3033" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="4" >
+   <ellipse x="2679" y="509" cx="2691" cy="521" rx="12" ry="12" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(255,0,0)" id="Graph1602" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="3033" FieldNo="-8739" />
+    </metadata>
+   </ellipse>
+   <text x="2655" y="497" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="12" >
+    <tspan x="2655" y="497" ></tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="3033" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="5" >
+   <ellipse x="208" y="1699" cx="220" cy="1711" rx="12" ry="12" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(255,0,0)" id="Graph1605" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="3033" FieldNo="-8739" />
+    </metadata>
+   </ellipse>
+   <text x="184" y="1687" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="12" >
+    <tspan x="184" y="1687" ></tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="3033" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="6" >
+   <ellipse x="208" y="1651" cx="220" cy="1663" rx="12" ry="12" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(255,0,0)" id="Graph1606" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="3033" FieldNo="-8739" />
+    </metadata>
+   </ellipse>
+   <text x="184" y="1639" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="12" >
+    <tspan x="184" y="1639" ></tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="3033" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="7" >
+   <ellipse x="2710" y="1698" cx="2722" cy="1710" rx="12" ry="12" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(255,0,0)" id="Graph1609" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="3033" FieldNo="-8739" />
+    </metadata>
+   </ellipse>
+   <text x="2686" y="1686" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="12" >
+    <tspan x="2686" y="1686" ></tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="3033" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="8" >
+   <ellipse x="2710" y="1650" cx="2722" cy="1662" rx="12" ry="12" style="fill:rgb(255,255,255);stroke-width:1;stroke:rgb(255,0,0)" id="Graph1610" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="3033" FieldNo="-8739" />
+    </metadata>
+   </ellipse>
+   <text x="2686" y="1638" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="12" >
+    <tspan x="2686" y="1638" ></tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="3033" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="9" >
+   <rect width="135" x="400" y="317" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph900" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2686" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="266" y="306" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="266" y="306" ></tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2686" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="10" >
+   <rect width="135" x="400" y="248" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph779" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2662" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="266" y="237" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="266" y="237" ></tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2662" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="11" >
+   <rect width="50" x="400" y="363" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph322" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="708" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="351" y="352" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="351" y="352" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="708" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="12" >
+   <rect width="50" x="400" y="225" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph773" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="351" y="214" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="351" y="214" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="13" >
+   <rect width="50" x="400" y="340" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph323" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="707" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="351" y="329" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="351" y="329" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="707" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="14" >
+   <rect width="50" x="400" y="294" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph325" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="276" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="351" y="283" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="351" y="283" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="276" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="15" >
+   <rect width="50" x="400" y="202" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph774" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="351" y="191" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="351" y="191" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="16" >
+   <rect width="50" x="400" y="271" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph326" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="275" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="351" y="260" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="351" y="260" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="275" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="17" >
+   <rect width="86" x="351" y="225" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph777" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="266" y="214" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="266" y="214" >出风温度</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="18" >
+   <rect width="86" x="351" y="202" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph778" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="266" y="191" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="266" y="191" >进风温度</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="19" >
+   <rect width="86" x="351" y="340" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph332" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="266" y="329" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="266" y="329" >电压(V)</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="20" >
+   <rect width="86" x="351" y="363" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph331" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="266" y="352" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="266" y="352" >电流(A)</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="21" >
+   <rect width="86" x="351" y="294" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph333" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="266" y="283" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="266" y="283" >电流(A)</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="22" >
+   <rect width="86" x="351" y="271" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph334" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="266" y="260" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="266" y="260" >电压(V)</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="23" >
+   <rect width="135" x="400" y="179" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph335" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="266" y="168" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="266" y="168" >设备柜A2</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="24" >
+   <rect width="50" x="1622" y="223" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph832" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1573" y="212" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1573" y="212" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="25" >
+   <rect width="50" x="1622" y="361" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph441" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="816" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1573" y="350" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1573" y="350" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="816" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="26" >
+   <rect width="50" x="1622" y="338" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph446" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="815" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1573" y="327" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1573" y="327" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="815" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="27" >
+   <rect width="50" x="1622" y="292" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph448" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="384" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1573" y="281" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1573" y="281" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="384" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="28" >
+   <rect width="50" x="1622" y="200" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph835" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1573" y="189" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1573" y="189" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="29" >
+   <rect width="50" x="1622" y="269" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph472" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="383" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1573" y="258" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1573" y="258" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="383" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="30" >
+   <rect width="50" x="670" y="1493" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1123" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="726" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="621" y="1482" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="621" y="1482" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="726" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="31" >
+   <rect width="50" x="670" y="1470" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1137" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="725" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="621" y="1459" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="621" y="1459" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="725" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="32" >
+   <rect width="50" x="670" y="1424" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1155" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="294" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="621" y="1413" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="621" y="1413" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="294" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="33" >
+   <rect width="50" x="670" y="1355" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1164" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="621" y="1344" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="621" y="1344" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="34" >
+   <rect width="50" x="670" y="1401" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1188" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="293" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="621" y="1390" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="621" y="1390" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="293" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="35" >
+   <rect width="50" x="670" y="1332" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1193" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="621" y="1321" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="621" y="1321" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="36" >
+   <rect width="135" x="824" y="1447" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1081" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2688" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="690" y="1436" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="690" y="1436" ></tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2688" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="37" >
+   <rect width="135" x="824" y="1378" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1085" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2664" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="690" y="1367" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="690" y="1367" ></tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2664" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="38" >
+   <rect width="50" x="824" y="1493" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1122" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="744" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="775" y="1482" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="775" y="1482" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="744" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="39" >
+   <rect width="50" x="824" y="1355" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1148" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="775" y="1344" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="775" y="1344" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="40" >
+   <rect width="50" x="824" y="1470" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1142" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="743" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="775" y="1459" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="775" y="1459" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="743" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="41" >
+   <rect width="50" x="824" y="1424" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1159" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="312" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="775" y="1413" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="775" y="1413" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="312" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="42" >
+   <rect width="50" x="824" y="1332" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1185" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="775" y="1321" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="775" y="1321" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="43" >
+   <rect width="50" x="824" y="1401" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1191" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="311" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="775" y="1390" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="775" y="1390" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="311" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="44" >
+   <rect width="86" x="775" y="1355" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1259" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="690" y="1344" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="690" y="1344" >出风温度</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="45" >
+   <rect width="86" x="775" y="1332" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1284" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="690" y="1321" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="690" y="1321" >进风温度</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="46" >
+   <rect width="86" x="775" y="1493" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1274" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="690" y="1482" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="690" y="1482" >电流(A)</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="47" >
+   <rect width="86" x="775" y="1470" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1273" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="690" y="1459" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="690" y="1459" >电压(V)</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="48" >
+   <rect width="86" x="775" y="1424" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1272" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="690" y="1413" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="690" y="1413" >电流(A)</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="49" >
+   <rect width="86" x="775" y="1401" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1298" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="690" y="1390" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="690" y="1390" >电压(V)</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="50" >
+   <rect width="135" x="824" y="1309" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1318" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="690" y="1298" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="690" y="1298" >设备柜C5</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="51" >
+   <rect width="135" x="1132" y="1446" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1083" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2690" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="998" y="1435" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="998" y="1435" ></tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2690" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="52" >
+   <rect width="135" x="1132" y="1377" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1089" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2666" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="998" y="1366" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="998" y="1366" ></tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2666" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="53" >
+   <rect width="50" x="1132" y="1492" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1114" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="780" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1083" y="1481" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1083" y="1481" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="780" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="54" >
+   <rect width="50" x="1132" y="1469" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1125" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="779" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1083" y="1458" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1083" y="1458" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="779" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="55" >
+   <rect width="50" x="1132" y="1354" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1153" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1083" y="1343" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1083" y="1343" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="56" >
+   <rect width="50" x="1132" y="1423" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1140" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="348" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1083" y="1412" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1083" y="1412" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="348" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="57" >
+   <rect width="50" x="1132" y="1331" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1186" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1083" y="1320" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1083" y="1320" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="58" >
+   <rect width="50" x="1132" y="1400" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1181" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="347" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1083" y="1389" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1083" y="1389" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="347" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="59" >
+   <rect width="86" x="1083" y="1423" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1245" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="998" y="1412" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="998" y="1412" >电流(A)</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="60" >
+   <rect width="86" x="1083" y="1492" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1243" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="998" y="1481" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="998" y="1481" >电流(A)</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="61" >
+   <rect width="86" x="1083" y="1469" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1244" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="998" y="1458" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="998" y="1458" >电压(V)</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="62" >
+   <rect width="86" x="1083" y="1354" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1262" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="998" y="1343" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="998" y="1343" >出风温度</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="63" >
+   <rect width="86" x="1083" y="1331" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1289" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="998" y="1320" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="998" y="1320" >进风温度</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="64" >
+   <rect width="86" x="1083" y="1400" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1268" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="998" y="1389" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="998" y="1389" >电压(V)</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="65" >
+   <rect width="135" x="1132" y="1308" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1296" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="998" y="1297" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="998" y="1297" >设备柜C7</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="66" >
+   <rect width="50" x="496" y="2036" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1366" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2045" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="447" y="2025" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="447" y="2025" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2045" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="67" >
+   <rect width="50" x="496" y="2013" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1370" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2044" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="447" y="2002" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="447" y="2002" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2044" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="68" >
+   <rect width="50" x="496" y="1967" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1382" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1613" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="447" y="1956" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="447" y="1956" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1613" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="69" >
+   <rect width="50" x="496" y="1898" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1434" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="447" y="1887" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="447" y="1887" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="70" >
+   <rect width="50" x="496" y="1944" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1425" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1612" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="447" y="1933" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="447" y="1933" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1612" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="71" >
+   <rect width="50" x="496" y="1875" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1458" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="447" y="1864" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="447" y="1864" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="72" >
+   <rect width="50" x="1259" y="2037" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1381" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1973" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1210" y="2026" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1210" y="2026" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1973" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="73" >
+   <rect width="50" x="1259" y="2014" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1398" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1972" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1210" y="2003" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1210" y="2003" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1972" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="74" >
+   <rect width="50" x="1259" y="1968" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1408" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1541" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1210" y="1957" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1210" y="1957" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1541" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="75" >
+   <rect width="50" x="1259" y="1899" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1423" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1210" y="1888" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1210" y="1888" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="76" >
+   <rect width="50" x="1259" y="1876" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1450" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1210" y="1865" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1210" y="1865" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="77" >
+   <rect width="50" x="1259" y="1945" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1454" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1540" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1210" y="1934" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1210" y="1934" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1540" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="78" >
+   <rect width="50" x="1415" y="1898" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1405" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1366" y="1887" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1366" y="1887" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="79" >
+   <rect width="50" x="1415" y="2036" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1409" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1955" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1366" y="2025" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1366" y="2025" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1955" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="80" >
+   <rect width="50" x="1415" y="2013" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1427" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1954" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1366" y="2002" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1366" y="2002" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1954" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="81" >
+   <rect width="50" x="1415" y="1967" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1442" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1523" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1366" y="1956" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1366" y="1956" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1523" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="82" >
+   <rect width="50" x="1415" y="1875" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1447" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1366" y="1864" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1366" y="1864" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="83" >
+   <rect width="50" x="1415" y="1944" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1467" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1522" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1366" y="1933" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1366" y="1933" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1522" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="84" >
+   <rect width="135" x="1566" y="2074" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1340" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2781" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1432" y="2063" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1432" y="2063" ></tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2781" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="85" >
+   <rect width="135" x="1566" y="2005" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1345" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2780" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1432" y="1994" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1432" y="1994" ></tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2780" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="86" >
+   <rect width="135" x="1566" y="1937" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1353" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2779" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1432" y="1926" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1432" y="1926" ></tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2779" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="87" >
+   <rect width="50" x="1566" y="2121" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1390" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1829" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1517" y="2110" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1517" y="2110" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1829" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="88" >
+   <rect width="50" x="1566" y="2052" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1399" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1811" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1517" y="2041" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1517" y="2041" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1811" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="89" >
+   <rect width="50" x="1566" y="1914" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1403" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2538" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1517" y="1903" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1517" y="1903" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2538" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="90" >
+   <rect width="50" x="1566" y="2098" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1406" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1828" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1517" y="2087" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1517" y="2087" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1828" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="91" >
+   <rect width="50" x="1566" y="2029" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1410" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1810" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1517" y="2018" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1517" y="2018" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1810" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="92" >
+   <rect width="50" x="1566" y="1983" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1428" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1793" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1517" y="1972" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1517" y="1972" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1793" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="93" >
+   <rect width="50" x="1566" y="1891" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1446" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2534" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1517" y="1880" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1517" y="1880" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="2534" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="94" >
+   <rect width="50" x="1566" y="1960" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1461" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1792" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1517" y="1949" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1517" y="1949" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1792" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="95" >
+   <rect width="86" x="1517" y="1914" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1494" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1432" y="1903" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1432" y="1903" >出风温度</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="96" >
+   <rect width="86" x="1517" y="2121" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1521" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1432" y="2110" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1432" y="2110" >电流(A)</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="97" >
+   <rect width="86" x="1517" y="2098" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1520" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1432" y="2087" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1432" y="2087" >电压(V)</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="98" >
+   <rect width="86" x="1517" y="1891" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1516" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1432" y="1880" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1432" y="1880" >进风温度</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="99" >
+   <rect width="86" x="1517" y="1983" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1541" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1432" y="1972" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1432" y="1972" >电流(A)</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="100" >
+   <rect width="86" x="1517" y="2029" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1540" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1432" y="2018" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1432" y="2018" >电压(V)</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="101" >
+   <rect width="86" x="1517" y="2052" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1539" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1432" y="2041" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1432" y="2041" >电流(A)</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="102" >
+   <rect width="86" x="1517" y="1960" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1565" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1432" y="1949" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1432" y="1949" >电压(V)</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="103" >
+   <rect width="135" x="1566" y="1868" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1579" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1432" y="1857" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1432" y="1857" >英维克空调D10</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="-1" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="104" >
+   <rect width="50" x="1872" y="1899" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1388" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1823" y="1888" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1823" y="1888" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="105" >
+   <rect width="50" x="1872" y="2037" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1384" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1919" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1823" y="2026" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1823" y="2026" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1919" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="106" >
+   <rect width="50" x="1872" y="2014" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1392" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1918" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1823" y="2003" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1823" y="2003" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1918" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="107" >
+   <rect width="50" x="1872" y="1968" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1411" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1487" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1823" y="1957" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1823" y="1957" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1487" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="108" >
+   <rect width="50" x="1872" y="1876" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1436" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1823" y="1865" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1823" y="1865" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="109" >
+   <rect width="50" x="1872" y="1945" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1455" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1486" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="1823" y="1934" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="1823" y="1934" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1486" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="110" >
+   <rect width="50" x="2180" y="1899" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1389" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="2131" y="1888" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="2131" y="1888" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="111" >
+   <rect width="50" x="2180" y="2037" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1400" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1883" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="2131" y="2026" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="2131" y="2026" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1883" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="112" >
+   <rect width="50" x="2180" y="2014" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1415" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1882" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="2131" y="2003" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="2131" y="2003" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1882" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="113" >
+   <rect width="50" x="2180" y="1968" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1429" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1451" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="2131" y="1957" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="2131" y="1957" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1451" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="114" >
+   <rect width="50" x="2180" y="1876" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1437" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="2131" y="1865" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="2131" y="1865" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="0" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+  <g id="115" >
+   <rect width="50" x="2180" y="1945" height="24" style="fill:none;stroke-width:1;stroke:rgb(0,0,255)" id="Graph1462" >
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1450" FieldNo="-8739" />
+    </metadata>
+   </rect>
+   <text x="2131" y="1934" style="fill:rgb(239,239,239); text-anchor:start;font-weight:normal" font-family="SimSun" font-size="11" >
+    <tspan x="2131" y="1934" >电压1</tspan>
+    <metadata>
+     <cge:CimClass CimType="" />
+     <cge:PSR_Ref AFMask="SCADA/PAS" ObjectID="1450" FieldNo="-8739" />
+    </metadata>
+   </text>
+  </g>
+ </g>
+</svg>

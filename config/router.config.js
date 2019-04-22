@@ -34,6 +34,7 @@ export default [
             path: '/dashboard/analysis',
             name: 'analysis',
             component: './Dashboard/Analysis',
+            // component: './Dashboard/ServerRoom'
           },
           {
             path: '/dashboard/monitor',
@@ -45,6 +46,11 @@ export default [
             name: 'workplace',
             component: './Dashboard/Workplace',
           },
+          {
+            path: '/dashboard/serverroom',
+            name: 'serverroom',
+            component: './Dashboard/ServerRoom'
+          }
         ],
       },
       // forms

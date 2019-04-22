@@ -14,6 +14,10 @@ module.exports = {
     page: true,
   },
   rules: {
+    "no-console": 1, //不禁用console
+    "semi": 1, //不强制使用分号
+    "no-irregular-whitespace": 1, //不规则的空白不允许
+    "react/jsx-indent-props": [2, 4], //验证JSX中的props缩进
     'react/jsx-filename-extension': [1, { extensions: ['.js'] }],
     'react/jsx-wrap-multilines': 0,
     'react/prop-types': 0,
